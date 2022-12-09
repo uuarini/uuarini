@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on a BS in IT
-🌱 I’m currently learning C#, JS, Python and C
+🌱 I’m currently learning C# and Python
 
 <!--
 **uuarini/uuarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
