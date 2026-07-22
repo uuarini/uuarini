@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on an MS in Data Analytics - Data Science
+🔭 I’m currently working as a Data Engineer with an MS in Data Analytics - Data Science
 
 <!--
 **uuarini/uuarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
